@@ -6,6 +6,7 @@ def map_quiz():
 
     # todo: 文字列を'_'から'-'に変換した配列を取得
     # 条件: lambda式、map関数を用いて一行で記述
+    # str.replace('_', '-')で変換可能
 
     return result
 
